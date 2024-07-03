@@ -1,3 +1,3 @@
 # AnomalyDetection_Real-IAD
 
-Coming soon.
+This repo has been transferred to [https://github.com/Tencent/AnomalyDetection_Real-IAD](https://github.com/Tencent/AnomalyDetection_Real-IAD)
